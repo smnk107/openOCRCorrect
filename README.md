@@ -129,6 +129,9 @@ We further developed the code to extract OCR confusions from unalligned OCR text
 2. After clicking on the edit option there will be four choices,
     
     Bold : which will Bold an individual text.
+    
     Unbold : which will unbold an individual text.
+    
     Superscript : Will make an individual text superscript.
+    
     Subscript : Will make an individual text subscript.
