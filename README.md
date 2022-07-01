@@ -124,4 +124,11 @@ Visit: https://murilo.wordpress.com/2011/02/01/fast-and-easy-levenshtein-distanc
 We further developed the code to extract OCR confusions from unalligned OCR text, alligned OCR text and Correct text.
 5. Abdulkader, Ahmad, and Mathew R. Casey. "Low cost correction of OCR errors using learning in a multi-engine environment." Document Analysis and Recognition, 2009. ICDAR'09. 10th International Conference on. IEEE, 2009.
 
-
+# What I have Implemented :
+1. I have added an Edit option in the tool bar.
+2. After clicking on the edit option there will be four choices,
+    
+    Bold : which will Bold an individual text.
+    Unbold : which will unbold an individual text.
+    Superscript : Will make an individual text superscript.
+    Subscript : Will make an individual text subscript.
